@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Anagheem Mansour! 👋</h1>
 
 
-<h3 align="center">A Computer System Engineering Student</h3>
+<h3 align="center">A Computer System Engineering Student !♟️</h3>
+<hr></hr>
 
 - 🔭 I’m currently working on **Full Stack Development & Data Science**
 
